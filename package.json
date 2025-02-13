@@ -1,0 +1,15 @@
+{
+  "name": "atv00-hello-world",
+  "version": "1.0.0",
+  "description": "Projeto Hello World para aprender a usar o Github Classroom.",
+  "main": "index.html",
+  "scripts": {
+    "test": "npx htmlhint *.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@linthtml/linthtml": "^0.9.4",
+    "htmlhint": "^1.1.4"
+  }
+}
